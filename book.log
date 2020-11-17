@@ -1,0 +1,637 @@
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2018.4.18)  17 NOV 2020 11:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./book.tex
+(./book.tex
+pLaTeX2e <2017/10/28>+4 (based on LaTeX2e <2017-04-15>)
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(c:/texlive/2017/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2017/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count82
+\c@chapter=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen118
+)
+(c:/texlive/2017/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\br=\skip43
+\NESW=\box42
+\@indexfile=\write3
+\openout3 = `book.idx'.
+
+
+Writing index file book.idx
+(./book.aux)
+\openout1 = `book.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 62.
+ [1
+
+
+
+] [2
+
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 63.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 63.
+ (./introduction.tex
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 31.
+) [3] [4
+
+
+] (./book.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+ [5])
+\tf@toc=\write4
+\openout4 = `book.toc'.
+
+
+
+LaTeX Font Warning: Font shape `JT1/mc/m/sl' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 65.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/sl' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 65.
+
+[6] (./chapter1.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
+(c:/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 15.
+ [7
+
+
+]
+Overfull \hbox (7.36101pt too wide) in paragraph at lines 112--113
+[][][][] 
+ []
+
+[8]
+Overfull \hbox (7.22212pt too wide) in paragraph at lines 236--237
+[][][][] 
+ []
+
+
+Overfull \hbox (4.86104pt too wide) in paragraph at lines 280--281
+[][][][] 
+ []
+
+[9]
+Overfull \hbox (4.86102pt too wide) in paragraph at lines 318--319
+[][][][] 
+ []
+
+
+Overfull \hbox (19.02774pt too wide) in paragraph at lines 367--368
+[][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--408
+[] \OT1/cmr/m/n/10 2005/3/19 Oh-funa prin-ci-pal cup #1
+ []
+
+
+Overfull \hbox (7.08325pt too wide) in paragraph at lines 399--408
+[][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Overfull \hbox (8.33328pt too wide) in paragraph at lines 466--467
+[][][][] 
+ []
+
+
+Underfull \vbox (badness 1107) has occurred while \output is active []
+
+
+Overfull \hbox (2.22214pt too wide) in paragraph at lines 500--501
+[][][][] 
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 569--573
+[]\OT1/cmr/m/n/10 Next deal shows false card played smoothly.
+ []
+
+
+Overfull \hbox (7.08331pt too wide) in paragraph at lines 581--582
+[][][][] 
+ []
+
+
+Overfull \hbox (6.80551pt too wide) in paragraph at lines 637--638
+[][][][] 
+ []
+
+
+Underfull \vbox (badness 6978) has occurred while \output is active []
+
+ [12])
+[13
+
+] [14
+
+]
+Chapter 2.
+(./chapter2.tex
+Overfull \hbox (14.72215pt too wide) in paragraph at lines 12--13
+[][][][] 
+ []
+
+
+Overfull \hbox (2.6388pt too wide) in paragraph at lines 54--55
+[][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+Overfull \hbox (4.44434pt too wide) in paragraph at lines 263--264
+[][][][] 
+ []
+
+[17]
+Underfull \hbox (badness 3199) in paragraph at lines 403--406
+[]\OT1/cmr/m/n/10 West leads $\OMS/cmsy/m/n/10 |$\OT1/cmr/m/n/10 Q which re-vea
+ls south's sin-gle-ton.
+ []
+
+
+Overfull \hbox (15.2777pt too wide) in paragraph at lines 419--420
+[][][][] 
+ []
+
+[18]
+Overfull \hbox (3.74995pt too wide) in paragraph at lines 508--509
+[][][][] 
+ []
+
+
+Overfull \hbox (2.36101pt too wide) in paragraph at lines 562--563
+[][][][] 
+ []
+
+
+Underfull \vbox (badness 1048) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Overfull \hbox (2.36101pt too wide) in paragraph at lines 733--734
+[][][][] 
+ []
+
+
+Underfull \vbox (badness 1152) has occurred while \output is active []
+
+ [21]
+Overfull \hbox (7.08324pt too wide) in paragraph at lines 817--818
+[][][][] 
+ []
+
+
+Overfull \hbox (15.2777pt too wide) in paragraph at lines 861--862
+[][][][] 
+ []
+
+[22]
+Overfull \hbox (10.13881pt too wide) in paragraph at lines 905--906
+[][][][] 
+ []
+
+) [23] [24
+
+]
+Chapter 3.
+(./chapter3.tex
+Overfull \hbox (2.9166pt too wide) in paragraph at lines 62--63
+[][][][] 
+ []
+
+[25]
+Overfull \hbox (0.69438pt too wide) in paragraph at lines 112--113
+[][][][] 
+ []
+
+
+Overfull \hbox (0.69438pt too wide) in paragraph at lines 153--154
+[][][][] 
+ []
+
+
+Overfull \hbox (2.9166pt too wide) in paragraph at lines 195--196
+[][][][] 
+ []
+
+[26]
+Overfull \hbox (10.1388pt too wide) in paragraph at lines 228--229
+[][][][] 
+ []
+
+
+Overfull \hbox (5.55547pt too wide) in paragraph at lines 281--282
+[][][][] 
+ []
+
+
+Overfull \hbox (11.38881pt too wide) in paragraph at lines 320--321
+[][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Overfull \hbox (9.99994pt too wide) in paragraph at lines 352--353
+[][][][] 
+ []
+
+
+Overfull \hbox (12.49992pt too wide) in paragraph at lines 400--401
+[][][][] 
+ []
+
+[28]
+Overfull \hbox (4.72212pt too wide) in paragraph at lines 437--438
+[][][][] 
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 485--486
+[]\OT1/cmr/m/n/10 Play small when
+ []
+
+
+Overfull \hbox (2.9166pt too wide) in paragraph at lines 517--518
+[][][][] 
+ []
+
+[29]
+Overfull \hbox (7.08325pt too wide) in paragraph at lines 586--587
+[][][][] 
+ []
+
+
+Overfull \hbox (7.49991pt too wide) in paragraph at lines 621--622
+[][][][] 
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 673--674
+[][][][] 
+ []
+
+[30]
+Overfull \hbox (3.33325pt too wide) in paragraph at lines 802--803
+[][][][] 
+ []
+
+[31]
+Overfull \hbox (5.27771pt too wide) in paragraph at lines 850--851
+[][][][] 
+ []
+
+) [32]
+Chapter 4.
+(./chapter4.tex
+Overfull \hbox (2.49992pt too wide) in paragraph at lines 59--60
+[][][][] 
+ []
+
+
+Overfull \hbox (17.63881pt too wide) in paragraph at lines 95--96
+[][][][] 
+ []
+
+[33
+
+]
+Overfull \hbox (11.94437pt too wide) in paragraph at lines 130--131
+[][][][] 
+ []
+
+
+Overfull \hbox (10.13881pt too wide) in paragraph at lines 222--223
+[][][][] 
+ []
+
+[34]
+Underfull \hbox (badness 2662) in paragraph at lines 247--247
+[]\OT1/cmr/bx/n/14.4 count-signal ap-pli-ca-tion ex-
+ []
+
+
+Overfull \hbox (19.72215pt too wide) in paragraph at lines 258--259
+[][][][] 
+ []
+
+
+Overfull \hbox (19.86105pt too wide) in paragraph at lines 298--299
+[][][][] 
+ []
+
+[35]
+Overfull \hbox (0.97215pt too wide) in paragraph at lines 377--378
+[][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (24.99995pt too wide) in paragraph at lines 431--432
+[][][][] 
+ []
+
+[36]
+Overfull \hbox (17.36105pt too wide) in paragraph at lines 491--492
+[][][][] 
+ []
+
+Missing character: There is no ^^bd in font cmr10!
+
+Underfull \vbox (badness 7379) has occurred while \output is active []
+
+ [37]
+Overfull \hbox (7.63881pt too wide) in paragraph at lines 575--576
+[][][][] 
+ []
+
+) [38]
+Chapter 5.
+(./chapter5.tex
+Overfull \hbox (7.49992pt too wide) in paragraph at lines 22--23
+[][][][] 
+ []
+
+
+Overfull \hbox (3.19438pt too wide) in paragraph at lines 78--79
+[][][][] 
+ []
+
+[39
+
+] [40]
+Overfull \hbox (11.24994pt too wide) in paragraph at lines 209--210
+[][][][] 
+ []
+
+[41]
+Overfull \hbox (3.61102pt too wide) in paragraph at lines 407--408
+[][][][] 
+ []
+
+[42]
+Overfull \hbox (4.30545pt too wide) in paragraph at lines 455--456
+[][][][] 
+ []
+
+
+Overfull \hbox (6.38881pt too wide) in paragraph at lines 551--552
+[][][][] 
+ []
+
+[43]
+Overfull \hbox (2.22215pt too wide) in paragraph at lines 620--621
+[][][][] 
+ []
+
+
+Underfull \vbox (badness 5548) has occurred while \output is active []
+
+ [44]
+Overfull \hbox (14.99995pt too wide) in paragraph at lines 692--693
+[][][][] 
+ []
+
+
+Overfull \hbox (4.02774pt too wide) in paragraph at lines 724--725
+[][][][] 
+ []
+
+
+Overfull \hbox (7.6388pt too wide) in paragraph at lines 767--768
+[][][][] 
+ []
+
+[45]) [46
+
+]
+Chapter 6.
+(./chapter6.tex
+Overfull \hbox (4.72212pt too wide) in paragraph at lines 24--25
+[][][][] 
+ []
+
+[47
+
+]
+Overfull \hbox (2.2221pt too wide) in paragraph at lines 120--121
+[][][][] 
+ []
+
+
+Overfull \hbox (12.36104pt too wide) in paragraph at lines 207--208
+[][][][] 
+ []
+
+[48]
+Underfull \hbox (badness 3260) in paragraph at lines 218--225
+[]\OT1/cmr/m/n/10 North's 1NT over-call with 14 HCP es-capes to
+ []
+
+
+Overfull \hbox (9.72214pt too wide) in paragraph at lines 294--295
+[][][][] 
+ []
+
+[49]
+Underfull \hbox (badness 1406) in paragraph at lines 386--387
+[]\OT1/cmr/m/n/10 At an-other ta-ble E-W ob-tained 3NT sav-ing less
+ []
+
+
+Overfull \hbox (6.52771pt too wide) in paragraph at lines 414--415
+[][][][] 
+ []
+
+
+Overfull \hbox (2.36102pt too wide) in paragraph at lines 451--452
+[][][][] 
+ []
+
+
+Underfull \vbox (badness 7151) has occurred while \output is active []
+
+ [50]
+Overfull \hbox (7.36102pt too wide) in paragraph at lines 512--513
+[][][][] 
+ []
+
+
+Overfull \hbox (5.1388pt too wide) in paragraph at lines 552--553
+[][][][] 
+ []
+
+[51]
+Overfull \hbox (7.63881pt too wide) in paragraph at lines 590--591
+[][][][] 
+ []
+
+
+Overfull \hbox (6.52771pt too wide) in paragraph at lines 634--635
+[][][][] 
+ []
+
+
+Overfull \hbox (11.11104pt too wide) in paragraph at lines 670--671
+[][][][] 
+ []
+
+[52]
+Overfull \hbox (5.83328pt too wide) in paragraph at lines 705--706
+[][][][] 
+ []
+
+
+Overfull \hbox (2.49992pt too wide) in paragraph at lines 725--726
+[][][][] 
+ []
+
+
+Overfull \hbox (5.83327pt too wide) in paragraph at lines 810--811
+[][][][] 
+ []
+
+[53]
+Overfull \hbox (2.36102pt too wide) in paragraph at lines 846--847
+[][][][] 
+ []
+
+
+Overfull \hbox (4.86101pt too wide) in paragraph at lines 894--895
+[][][][] 
+ []
+
+[54]) [55
+
+] [56
+
+]
+Chapter 7.
+(./chapter7.tex
+Overfull \hbox (4.99991pt too wide) in paragraph at lines 20--21
+[][][][] 
+ []
+
+[57] [58]
+Underfull \vbox (badness 2556) has occurred while \output is active []
+
+ [59])
+[60
+
+]
+Chapter 8.
+(./chapter8.tex [61
+
+]
+Overfull \hbox (2.361pt too wide) in paragraph at lines 173--174
+[][][][] 
+ []
+
+[62]
+Overfull \hbox (12.7777pt too wide) in paragraph at lines 219--220
+[][][][] 
+ []
+
+
+Underfull \vbox (badness 1077) has occurred while \output is active []
+
+ [63])
+[64
+
+] (./epilogue.tex) (./book.ind [65
+
+
+] [66
+
+
+]) (./book.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 371 strings out of 493640
+ 4115 string characters out of 6151719
+ 77623 words of memory out of 5000000
+ 3995 multiletter control sequences out of 15000+600000
+ 17953 words of font info for 70 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 25i,10n,23p,898b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on book.dvi (66 pages, 283776 bytes).
